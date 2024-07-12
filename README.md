@@ -17,7 +17,7 @@ I'm an aspiring backend developer with a passion for solving real-life problems 
   - **Machine Learning Experiments**: Exploring algorithms and models to solve complex problems.
   - **Continuous Learning**: Always on the lookout for new tools and techniques to enhance my skillset.
 
--##  🔗 **Connect With Me:**
+-  🔗 **Connect With Me:**
   - [LinkedIn](https://www.linkedin.com/in/rohith-vijayan-081b34227/)
 
   - [Email](mailto:rohithvij20@gmail.com)
